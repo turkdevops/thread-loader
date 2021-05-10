@@ -4,6 +4,7 @@
   </a>
 </div>
 
+[![thread-loader](https://github.com/webpack-contrib/thread-loader/actions/workflows/nodejs.yml/badge.svg?branch=ci-updated)](https://github.com/webpack-contrib/thread-loader/actions/workflows/nodejs.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sonarsource_sample-nodejs-project&metric=alert_status)](https://sonarcloud.io/dashboard?id=sonarsource_sample-nodejs-project)
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
